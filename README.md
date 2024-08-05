@@ -7,7 +7,7 @@ A collection of lexical resources across languages for audiometry and linguistic
 
 | **Title** | **Type** | **Description** | **Size** | **Link** |
 |-----------|---------|-----------------|----------|----------|
-|A|B|C|D|E|
+|CGN|Spoken Cropus|A Corpus with |D|E|
 |A|B|C|D|E|
 |A|B|C|D|E|
 |A|B|C|D|E|
