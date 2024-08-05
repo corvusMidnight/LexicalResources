@@ -1,6 +1,17 @@
 A collection of  resources across languages for audiometry and linguistics.
 
 
+# Languages
+
+## Dutch
+### CGN
+The Corpus Gesproken Nederlands (CGN) is a comprehensive collection of approximately 900 hours of contemporary spoken Dutch, totaling nearly 9 million words, sourced from both Flanders and the Netherlands. It includes both spontaneous and prepared speech fragments, with various types of transcriptions (e.g., orthographic, phonetic) and annotations (e.g., syntactic, POS-tags). The CGN also features metadata, lexicons, frequency lists, and the Corex corpus exploration software. Additionally, the CGN annotations can be obtained separately without the audio files. 
+
+### FONILEX
+The FONILEX pronunciation database, compiled between January 1995 and July 1997 with funding from the Flemish government, provides detailed phonetic transcriptions of over 200,000 Dutch word forms as spoken in Flanders. Developed by three research groups—K.U. Leuven's Centre for Computational Linguistics, U.I.A.'s Centrum voor Nederlandse Taal en Spraak, and U. Gent's ELIS—the database includes both abstract and concrete pronunciations, captured through a semi-automatic process and verified manually to ensure accuracy. Unlike traditional dictionaries, FONILEX lists all word forms and pronunciation variants based on frequency of use, making it a comprehensive resource for language and speech technology applications, including speech synthesis, recognition, and natural language processing. It also supports phonological research by offering a systematic list of Dutch pronunciation variants and their phonetic representations.
+
+
+
 # Transcription System
 
 The table provided illustrates a list of 39 phonemes using the DISC notation alongside their International Phonetic Alphabet (IPA) symbols.
