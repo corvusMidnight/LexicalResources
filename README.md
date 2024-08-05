@@ -1,23 +1,5 @@
-A collection of  resources across languages for audiometry and linguistics
+A collection of  resources across languages for audiometry and linguistics.
 
-
-| **Title** | **Type** | **Description** | **Size** | **Link** |
-|-----------|---------|-----------------|----------|----------|
-|CGN|Spoken Cropus|A Corpus with |D|E|
-|A|B|C|D|E|
-|A|B|C|D|E|
-|A|B|C|D|E|
-|A|B|C|D|E|
-|A|B|C|D|E|
-|A|B|C|D|E|
-|A|B|C|D|E|
-|A|B|C|D|E|
-|A|B|C|D|E|
-|A|B|C|D|E|
-|A|B|C|D|E|
-|A|B|C|D|E|
-|A|B|C|D|E|
-|A|B|C|D|E|
 
 # Transcription System
 
